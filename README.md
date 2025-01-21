@@ -2,6 +2,7 @@
 ## Overview
 Happy Industry is a web application developed from April to June 2024 as part of a challenging project during my Software Engineering course at PUCPR. The application is designed to assist industries in managing materials, recording prices, and generating detailed cost reports. This was my first extensive project in web development, built using Python (Flask) for the back-end, HTML, CSS, and MySQL for data storage.
 
+
 ## Features
 Material Registration: Users can register materials, specifying details like material type, cost, and supplier information.
 Price Management: The system allows updating and managing material prices.
