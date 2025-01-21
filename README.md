@@ -2,6 +2,7 @@
 
 
 Happy Industry - Sistema de Registro de Materiais e Relatórios de Custos
+
 Visão geral
 Happy Industry é uma aplicação web desenvolvida de abril a junho de 2024 como parte de um projeto desafiador durante meu curso de Engenharia de Software na PUCPR. A aplicação foi projetada para auxiliar indústrias na gestão de materiais, registro de preços e geração de relatórios detalhados de custos. Este foi meu primeiro projeto extenso em desenvolvimento web, construído usando Python (Flask) para o back-end, HTML, CSS e MySQL para armazenamento de dados.
 
